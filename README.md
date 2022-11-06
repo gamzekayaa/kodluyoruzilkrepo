@@ -16,3 +16,15 @@
 
 # installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
+https://github.com/gamzekayaa/kodluyoruzilkrepo.git
+#usage
+Projeyi klonladıktan sonra Visual Studio Code girişini açın
+linux için
+cd kodluyoruzilkrepo
+code .
+Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+#License
+MİT
+
